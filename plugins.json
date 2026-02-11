@@ -1,7 +1,7 @@
 [
   { 
     "id": "appipinopi/Malicious-Test-Plugin", 
-    "reason": "Webpageのクラッシュする可能性" 
+    "reason": "画像が大量に複製され、Webページもしくは実行環境がクラッシュする" 
   },
   { 
     "id": "another/MaliciousRepo", 
