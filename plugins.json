@@ -1,3 +1,10 @@
 [
-  "user/ID",
+  { 
+    "id": "appipinopi/Malicious-Test-Plugin", 
+    "reason": "Webpageのクラッシュする可能性" 
+  },
+  { 
+    "id": "another/MaliciousRepo", 
+    "reason": "不正なスクリプトの実行が確認されました。" 
+  }
 ]
